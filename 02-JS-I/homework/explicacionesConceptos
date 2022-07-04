@@ -1,0 +1,11 @@
+ * Variables=
+ <!-- una variable es un espacio de almacenamiento que sirve para guardar un tipo de dato. -->
+ * Strings
+ <!-- un string es un grupo de texto, puedes ser numerpos letras o caracteres especiales y se definene mediante comillas simples o dobles. 'crsithian10.', "cristhian10.". -->
+ * Funciones (argumentos, `return`)
+ <!-- una funcioon es un precedimiento que se realiza para calcular un valor, debe tomar una entrada y devolver una salida. 
+ Cuado ejecutamos una función  lo más pruébale es quiera devolver algo, para lo ello utilizamos el argumento return  -->
+ * Declaraciones `if`
+<!-- if es una declaración que se utiliza para tomar decisiones, funciona con la repuesta del argumento a que indicamos, si es verdadero se continúa el otro paso... -->
+ * Valores booleanos (`true`, `false`)
+<!-- Los booleanos son tipos de datos que tienen dos posibles valores, verdadero,  o falso, como pienso es acompáñate de la declaración if, si el resultado de la operación es verdadera, continúe... -->
